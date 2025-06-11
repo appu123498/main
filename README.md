@@ -1,2 +1,1 @@
-# main
-main project
+this is my prjct 
